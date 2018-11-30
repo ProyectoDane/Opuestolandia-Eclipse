@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="rotosano.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:19db5f9b5c05468f031db73866c45410$ -->
+    <textureregion id="0" src="boxtxt1.png" x="2" y="426" width="126" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="126" srcheight="37"/>
+    <textureregion id="1" src="boxtxt2.png" x="2" y="465" width="121" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="121" srcheight="37"/>
+    <textureregion id="2" src="item1.png" x="248" y="133" width="90" height="98" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="90" srcheight="98"/>
+    <textureregion id="3" src="item2.png" x="123" y="295" width="113" height="123" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="123"/>
+    <textureregion id="4" src="item3.png" x="2" y="2" width="132" height="145" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="132" srcheight="145"/>
+    <textureregion id="5" src="item4.png" x="238" y="252" width="93" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="93" srcheight="101"/>
+    <textureregion id="6" src="item5.png" x="138" y="133" width="108" height="117" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="108" srcheight="117"/>
+    <textureregion id="7" src="item6.png" x="259" y="2" width="84" height="91" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="84" srcheight="91"/>
+    <textureregion id="8" src="item7.png" x="2" y="149" width="134" height="144" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="134" srcheight="144"/>
+    <textureregion id="9" src="type1.png" x="136" y="2" width="121" height="129" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="121" srcheight="129"/>
+    <textureregion id="10" src="type2.png" x="2" y="295" width="119" height="129" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="129"/>
+</texture>

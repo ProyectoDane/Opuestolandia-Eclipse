@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="box.png" type="bitmap" width="512" height="256" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5b0ad30d57b4c804d3ebff01b567e624$ -->
+    <textureregion id="0" src="boxbackside.png" x="2" y="2" width="221" height="217" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="217"/>
+    <textureregion id="1" src="boxfrontside.png" x="225" y="2" width="274" height="210" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="274" srcheight="210"/>
+</texture>

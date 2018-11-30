@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="cortolargo.png" type="bitmap" width="256" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:9dcda371c30058ee431b7a0baaafa94c$ -->
+    <textureregion id="0" src="boxtxt1.png" x="2" y="140" width="151" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="151" srcheight="37"/>
+    <textureregion id="1" src="boxtxt2.png" x="2" y="179" width="146" height="36" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="146" srcheight="36"/>
+    <textureregion id="2" src="item1.png" x="105" y="268" width="101" height="58" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="101" srcheight="58"/>
+    <textureregion id="3" src="item2.png" x="2" y="75" width="197" height="63" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="197" srcheight="63"/>
+    <textureregion id="4" src="item3.png" x="88" y="328" width="82" height="55" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="82" srcheight="55"/>
+    <textureregion id="5" src="item4.png" x="2" y="2" width="225" height="71" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="225" srcheight="71"/>
+    <textureregion id="6" src="item5.png" x="2" y="217" width="101" height="58" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="101" srcheight="58"/>
+    <textureregion id="7" src="item6.png" x="2" y="277" width="84" height="57" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="84" srcheight="57"/>
+    <textureregion id="8" src="type1.png" x="105" y="217" width="91" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="91" srcheight="49"/>
+    <textureregion id="9" src="type2.png" x="201" y="75" width="51" height="156" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="51" srcheight="156"/>
+</texture>

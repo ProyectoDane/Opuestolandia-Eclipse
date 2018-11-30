@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="clarooscuro.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f47fc6df5ce15f3e6bce1a96d10baf82$ -->
+    <textureregion id="0" src="boxtxt1.png" x="351" y="2" width="148" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="148" srcheight="37"/>
+    <textureregion id="1" src="boxtxt2.png" x="2" y="2" width="180" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="180" srcheight="37"/>
+    <textureregion id="2" src="item1.png" x="169" y="115" width="162" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="162" srcheight="107"/>
+    <textureregion id="3" src="item2.png" x="2" y="255" width="97" height="69" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="97" srcheight="69"/>
+    <textureregion id="4" src="item3.png" x="166" y="224" width="120" height="81" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="120" srcheight="81"/>
+    <textureregion id="5" src="item4.png" x="351" y="41" width="141" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="141" srcheight="96"/>
+    <textureregion id="6" src="item5.png" x="184" y="2" width="165" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="165" srcheight="111"/>
+    <textureregion id="7" src="item6.png" x="333" y="139" width="139" height="93" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="139" srcheight="93"/>
+    <textureregion id="8" src="type1.png" x="2" y="150" width="162" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="162" srcheight="103"/>
+    <textureregion id="9" src="type2.png" x="2" y="41" width="165" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="165" srcheight="107"/>
+</texture>

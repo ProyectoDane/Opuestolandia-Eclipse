@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="pocomucho.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:9e2d185843bf0b0079c075d9582ad962$ -->
+    <textureregion id="0" src="boxtxt1.png" x="366" y="230" width="128" height="36" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="36"/>
+    <textureregion id="1" src="boxtxt2.png" x="2" y="199" width="157" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="157" srcheight="37"/>
+    <textureregion id="2" src="item1.png" x="200" y="184" width="164" height="161" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="164" srcheight="161"/>
+    <textureregion id="3" src="item2.png" x="388" y="116" width="117" height="112" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="117" srcheight="112"/>
+    <textureregion id="4" src="item3.png" x="2" y="2" width="196" height="195" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="196" srcheight="195"/>
+    <textureregion id="5" src="item4.png" x="2" y="347" width="148" height="141" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="148" srcheight="141"/>
+    <textureregion id="6" src="item5.png" x="388" y="2" width="117" height="112" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="117" srcheight="112"/>
+    <textureregion id="7" src="type1.png" x="366" y="268" width="127" height="121" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="127" srcheight="121"/>
+    <textureregion id="8" src="type2.png" x="200" y="2" width="186" height="180" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="186" srcheight="180"/>
+</texture>

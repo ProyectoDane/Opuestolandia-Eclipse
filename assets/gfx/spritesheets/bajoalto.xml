@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="bajoalto.png" type="bitmap" width="256" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7da37193774f1ae29e9a5b85b21ef451$ -->
+    <textureregion id="0" src="boxtxt1.png" x="2" y="2" width="124" height="36" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="36"/>
+    <textureregion id="1" src="boxtxt2.png" x="128" y="2" width="116" height="36" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="116" srcheight="36"/>
+    <textureregion id="2" src="item1.png" x="119" y="253" width="55" height="114" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="55" srcheight="114"/>
+    <textureregion id="3" src="item10.png" x="61" y="258" width="56" height="191" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="56" srcheight="191"/>
+    <textureregion id="4" src="item2.png" x="2" y="258" width="57" height="193" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="193"/>
+    <textureregion id="5" src="item3.png" x="65" y="40" width="49" height="164" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="49" srcheight="164"/>
+    <textureregion id="6" src="item4.png" x="176" y="272" width="45" height="94" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="45" srcheight="94"/>
+    <textureregion id="7" src="item5.png" x="61" y="258" width="56" height="191" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="56" srcheight="191"/>
+    <textureregion id="8" src="item6.png" x="116" y="157" width="46" height="94" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="46" srcheight="94"/>
+    <textureregion id="9" src="item7.png" x="179" y="156" width="55" height="114" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="55" srcheight="114"/>
+    <textureregion id="10" src="item8.png" x="65" y="40" width="49" height="164" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="49" srcheight="164"/>
+    <textureregion id="11" src="item9.png" x="179" y="40" width="55" height="114" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="55" srcheight="114"/>
+    <textureregion id="12" src="type1.png" x="119" y="40" width="58" height="115" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="115"/>
+    <textureregion id="13" src="type2.png" x="2" y="40" width="61" height="216" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="61" srcheight="216"/>
+</texture>
